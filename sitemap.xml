@@ -4,9 +4,57 @@
     <!--created with Marxism-Leninism-Maoism Website Sitemap Generator-->
     <url>
         <loc>https://urwar2024.github.io/index.htm</loc>
-        <lastmod>2024-03-07T23:05:59+00:00</lastmod>
+        <lastmod>2024-03-08T23:09:27+00:00</lastmod>
         <priority>1.0</priority>
         <title>Ukraine-Russia War News</title>
+    </url>
+    <url>
+        <loc>https://urwar2024.github.io/pages/2024-03-09/CHI_NEW/findex.htm</loc>
+        <lastmod>2024-03-08T22:47:05+00:00</lastmod>
+        <priority>0.8</priority>
+        <title>中文语言内容 (桌面)  - 2024-03-09 - Ukraine-Russia War News</title>
+    </url>
+    <url>
+        <loc>https://urwar2024.github.io/pages/2024-03-09/CHI_NEW/findex_mobile.htm</loc>
+        <lastmod>2024-03-08T22:47:05+00:00</lastmod>
+        <priority>0.8</priority>
+        <title>中文语言内容 (移动)  - 2024-03-09 - Ukraine-Russia War News</title>
+    </url>
+    <url>
+        <loc>https://urwar2024.github.io/pages/2024-03-09/ORI_NEW/findex.htm</loc>
+        <lastmod>2024-03-08T22:18:28+00:00</lastmod>
+        <priority>0.8</priority>
+        <title>Original Language Content (Desktop) - 2024-03-09 - Ukraine-Russia War News</title>
+    </url>
+    <url>
+        <loc>https://urwar2024.github.io/pages/2024-03-09/ORI_NEW/findex_mobile.htm</loc>
+        <lastmod>2024-03-08T22:18:29+00:00</lastmod>
+        <priority>0.8</priority>
+        <title>Original Language Content (Mobile) - 2024-03-09 - Ukraine-Russia War News</title>
+    </url>
+    <url>
+        <loc>https://urwar2024.github.io/pages/2024-03-09/ENG_NEW/findex.htm</loc>
+        <lastmod>2024-03-08T23:09:26+00:00</lastmod>
+        <priority>0.8</priority>
+        <title>English Language Content (Desktop) - 2024-03-09 - Ukraine-Russia War News</title>
+    </url>
+    <url>
+        <loc>https://urwar2024.github.io/pages/2024-03-09/ENG_NEW/findex_mobile.htm</loc>
+        <lastmod>2024-03-08T23:09:27+00:00</lastmod>
+        <priority>0.8</priority>
+        <title>English Language Content (Mobile) - 2024-03-09 - Ukraine-Russia War News</title>
+    </url>
+    <url>
+        <loc>https://urwar2024.github.io/files/index.htm</loc>
+        <lastmod>2024-03-08T23:09:27+00:00</lastmod>
+        <priority>0.8</priority>
+        <title>Ukraine-Russia War Resources</title>
+    </url>
+    <url>
+        <loc>https://urwar2024.github.io/GNU Free Documentation License v1.3 - GNU Project - Free Software Foundation (FSF).html</loc>
+        <lastmod>2024-03-04T23:13:22+00:00</lastmod>
+        <priority>0.8</priority>
+        <title>GNU Free Documentation License v1.3 - GNU Project - Free Software Foundation (FSF)</title>
     </url>
     <url>
         <loc>https://urwar2024.github.io/pages/2024-03-08/CHI_NEW/findex.htm</loc>
@@ -21,18 +69,6 @@
         <title>中文语言内容 (移动)  - 2024-03-08 - Ukraine-Russia War News</title>
     </url>
     <url>
-        <loc>https://urwar2024.github.io/pages/2024-03-08/ORI_NEW/findex.htm</loc>
-        <lastmod>2024-03-07T22:13:04+00:00</lastmod>
-        <priority>0.8</priority>
-        <title>Original Language Content (Desktop) - 2024-03-08 - Ukraine-Russia War News</title>
-    </url>
-    <url>
-        <loc>https://urwar2024.github.io/pages/2024-03-08/ORI_NEW/findex_mobile.htm</loc>
-        <lastmod>2024-03-07T22:13:04+00:00</lastmod>
-        <priority>0.8</priority>
-        <title>Original Language Content (Mobile) - 2024-03-08 - Ukraine-Russia War News</title>
-    </url>
-    <url>
         <loc>https://urwar2024.github.io/pages/2024-03-08/ENG_NEW/findex.htm</loc>
         <lastmod>2024-03-07T23:05:58+00:00</lastmod>
         <priority>0.8</priority>
@@ -45,16 +81,16 @@
         <title>English Language Content (Mobile) - 2024-03-08 - Ukraine-Russia War News</title>
     </url>
     <url>
-        <loc>https://urwar2024.github.io/files/index.htm</loc>
-        <lastmod>2024-03-07T23:05:59+00:00</lastmod>
+        <loc>https://urwar2024.github.io/pages/2024-03-08/ORI_NEW/findex.htm</loc>
+        <lastmod>2024-03-07T22:13:04+00:00</lastmod>
         <priority>0.8</priority>
-        <title>Ukraine-Russia War Resources</title>
+        <title>Original Language Content (Desktop) - 2024-03-08 - Ukraine-Russia War News</title>
     </url>
     <url>
-        <loc>https://urwar2024.github.io/GNU Free Documentation License v1.3 - GNU Project - Free Software Foundation (FSF).html</loc>
-        <lastmod>2024-03-04T23:13:22+00:00</lastmod>
+        <loc>https://urwar2024.github.io/pages/2024-03-08/ORI_NEW/findex_mobile.htm</loc>
+        <lastmod>2024-03-07T22:13:04+00:00</lastmod>
         <priority>0.8</priority>
-        <title>GNU Free Documentation License v1.3 - GNU Project - Free Software Foundation (FSF)</title>
+        <title>Original Language Content (Mobile) - 2024-03-08 - Ukraine-Russia War News</title>
     </url>
     <url>
         <loc>https://urwar2024.github.io/pages/2024-03-07/CHI_NEW/findex.htm</loc>
