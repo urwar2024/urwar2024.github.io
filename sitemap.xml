@@ -4,9 +4,57 @@
     <!--created with Marxism-Leninism-Maoism Website Sitemap Generator-->
     <url>
         <loc>https://urwar2024.github.io/index.htm</loc>
-        <lastmod>2024-03-09T23:05:10+00:00</lastmod>
+        <lastmod>2024-03-10T22:50:25+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://urwar2024.github.io/pages/2024-03-11/CHI_NEW/findex.htm</loc>
+        <lastmod>2024-03-10T22:35:38+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://urwar2024.github.io/pages/2024-03-11/CHI_NEW/findex_mobile.htm</loc>
+        <lastmod>2024-03-10T22:35:38+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://urwar2024.github.io/pages/2024-03-11/ORI_NEW/findex.htm</loc>
+        <lastmod>2024-03-10T22:13:27+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://urwar2024.github.io/pages/2024-03-11/ORI_NEW/findex_mobile.htm</loc>
+        <lastmod>2024-03-10T22:13:27+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://urwar2024.github.io/pages/2024-03-11/ENG_NEW/findex.htm</loc>
+        <lastmod>2024-03-10T22:50:25+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://urwar2024.github.io/pages/2024-03-11/ENG_NEW/findex_mobile.htm</loc>
+        <lastmod>2024-03-10T22:50:25+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://urwar2024.github.io/files/index.htm</loc>
+        <lastmod>2024-03-10T22:50:25+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://urwar2024.github.io/GNU Free Documentation License v1.3 - GNU Project - Free Software Foundation (FSF).html</loc>
+        <lastmod>2024-03-04T23:13:22+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
     </url>
     <url>
         <loc>https://urwar2024.github.io/pages/2024-03-10/CHI_NEW/findex.htm</loc>
@@ -17,18 +65,6 @@
     <url>
         <loc>https://urwar2024.github.io/pages/2024-03-10/CHI_NEW/findex_mobile.htm</loc>
         <lastmod>2024-03-09T22:52:30+00:00</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://urwar2024.github.io/pages/2024-03-10/ORI_NEW/findex.htm</loc>
-        <lastmod>2024-03-09T22:32:39+00:00</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://urwar2024.github.io/pages/2024-03-10/ORI_NEW/findex_mobile.htm</loc>
-        <lastmod>2024-03-09T22:32:39+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
@@ -45,14 +81,14 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://urwar2024.github.io/files/index.htm</loc>
-        <lastmod>2024-03-09T23:05:10+00:00</lastmod>
+        <loc>https://urwar2024.github.io/pages/2024-03-10/ORI_NEW/findex.htm</loc>
+        <lastmod>2024-03-09T22:32:39+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://urwar2024.github.io/GNU Free Documentation License v1.3 - GNU Project - Free Software Foundation (FSF).html</loc>
-        <lastmod>2024-03-04T23:13:22+00:00</lastmod>
+        <loc>https://urwar2024.github.io/pages/2024-03-10/ORI_NEW/findex_mobile.htm</loc>
+        <lastmod>2024-03-09T22:32:39+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
